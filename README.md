@@ -128,4 +128,4 @@ This project provides practical experience in machine learning, web development,
 ## Author
 **J.Rohit Venkata Manikanta**
 
-GitHub: https://github.com/Rohit12223
+* LinkedIn: https://www.linkedin.com/in/rohit-venkata-manikanta-jannu-a576a9379
